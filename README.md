@@ -1,4 +1,4 @@
-# SmS
+**SmS**
 Student Management System 
 
 
@@ -6,7 +6,7 @@ SmS written in React native
 ---------------------------
 
 
-Features of Student module
+>Features of Student module
 --------------------------
 # Admin can add new student records 
 # Only Admin can edit ,update and delete the record of the student 
